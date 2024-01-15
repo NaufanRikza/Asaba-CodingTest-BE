@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "program": "${workspaceFolder}/main.go",
+      "stackTraceDepth": 100,
+      "console": "integratedTerminal",
+      "showLog": true,
+      "internalConsoleOptions": "openOnFirstSessionStart",
+      "showGlobalVariables": true
+    }
+  ]
+}
